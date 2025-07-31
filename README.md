@@ -42,9 +42,13 @@ java TicTacToe
 ---
 
 🎯 Game Rules
+-----
 1.The game board is 3x3.
+-----
 2.Player X and O take turns marking empty cells.
+-----
 3.The first player to get 3 in a row (horizontally, vertically, or diagonally) wins.
+-----
 4.If all cells are filled and no one wins, it's a draw.
 
 ---
@@ -61,6 +65,7 @@ X |   |
 
 Player O, enter row and column: 2 2
 Current Board:
+---------
 X |   |  
 ---------
   | O |  
