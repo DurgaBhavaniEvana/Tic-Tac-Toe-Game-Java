@@ -52,6 +52,7 @@ java TicTacToe
 Example:
 Player X, enter row and column: 1 1
 Current Board:
+---------
 X |   |  
 ---------
   |   |  
